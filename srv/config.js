@@ -1,8 +1,13 @@
 {
-"Lolkey": "a3jhsgdac6sdjkfcd7sewjkd",
-"Vhtear": "un23ec5xmn4wn82f0ukhz1vr",
-"Xteam": "h9bg1er4b6ytcv3mc5f2zsta",
-"Zeks": "u55uwo1ltg3ykgnxkco7et5z",
-"Nurutomo": "5t1kk4atvvhz1wfbker048gl",
-"Zero": "srla5m006s07xklbvzxk1th7"
+"Lolkey": "260153ea4dfab79e14a9c7ae",
+"ImgbbKey": "7b2fde1f55b9a594d5db403f0a0c2712"
 }
+
+/*NOTE :
+All case using lol api, if seems not working, change the key
+
+commands that use imggb key :
+ - readqr, readbarcode, ceknsfw, cekusia, ocr, wait, wmit, trigger
+ - all command in editormenu
+
+ YEP THATS ALL*/
