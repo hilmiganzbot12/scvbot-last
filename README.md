@@ -1,17 +1,14 @@
 <h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+<img src="https://i.ibb.co/YWDgSc9/dudu.jpg" />
 </p>
 
 <p align="center">
 
-- 👼 My name is Zero YT7
+- 👼 My name is ZERENITY
 
-- 🗣️ I am 18 years old 
-
-- 🔭 I am Not programmer
+- 🗣️ Recode from ZERO YT7
  
-- 😎 I am like Wibu
 </p>
 
 ------
@@ -42,17 +39,17 @@
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L4)
-- Owner name [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L13)
-- Botname [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L14)
+- Owner number [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L4)
+- Owner name [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L13)
+- Botname [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L14)
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`SAWERIA`](https://saweria.co/clicknetcafe)
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA ZERO YT7`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -70,15 +67,15 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/clicknetcafe/scvbot-last.git
+cd scvbot-last
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/clicknetcafe/scvbot-last.git
+cd scvbot-last
 npm install
 npm start
 ```
@@ -90,8 +87,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/clicknetcafe/scvbot-last.git
+cd scvbot-last
 npm install
 npm start
 ```
