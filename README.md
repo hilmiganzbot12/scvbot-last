@@ -39,7 +39,14 @@
 
 ## ```SETTING```
 
-- READ THIS NOTE BEFORE USE [IN HERE](https://github.com/clicknetcafe/scvbot-last/blob/master/srv/config.js)
+NOTE :
+All case using lol api, if seems not working, change the key
+
+commands that use imggb key :
+- readqr, readbarcode, ceknsfw, cekusia, ocr, wait, wmit, trigger
+- all command in editormenu
+
+- Change apikey and imgbb key [IN HERE](https://github.com/clicknetcafe/scvbot-last/blob/master/srv/config.js)
 - Owner number [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L4)
 - Owner name [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L13)
 - Botname [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L14)
