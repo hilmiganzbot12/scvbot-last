@@ -25,7 +25,7 @@
 
 
 NOTE :
-Use command **.batal to reset antrian
+Use command **.batal** to reset antrian
  
 All case using lol api, if seems not working, change the key
 
