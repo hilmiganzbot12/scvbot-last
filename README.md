@@ -55,7 +55,7 @@ Commands that use imggb key : readqr, readbarcode, ceknsfw, cekusia, ocr, wait, 
 
 ## ```GROUP BOT```
 
-- [`GROUP WA ZERO YT7`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA BUNNYWALKER`](https://chat.whatsapp.com/BuFWtOisWbvIsJXeXY36Be)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
