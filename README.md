@@ -39,6 +39,7 @@
 
 ## ```SETTING```
 
+- Please read the NOTE before use, [Here] (https://github.com/clicknetcafe/scvbot-last/blob/master/srv/config.js)
 - Owner number [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L4)
 - Owner name [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L13)
 - Botname [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L14)
