@@ -42,9 +42,7 @@
 NOTE :
 All case using lol api, if seems not working, change the key
 
-commands that use imggb key :
-- readqr, readbarcode, ceknsfw, cekusia, ocr, wait, wmit, trigger
-- all command in editormenu
+Commands that use imggb key : readqr, readbarcode, ceknsfw, cekusia, ocr, wait, wmit, trigger, and all command in editormenu
 
 - Change apikey and imgbb key [IN HERE](https://github.com/clicknetcafe/scvbot-last/blob/master/srv/config.js)
 - Owner number [Here](https://github.com/clicknetcafe/scvbot-last/blob/master/setting.json#L4)
